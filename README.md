@@ -2,6 +2,9 @@
 
 A clean and functional calculator web application with keyboard support.
 
+![calculator](https://github.com/user-attachments/assets/b3e3096d-0e52-4ac7-8597-3ecd01b643e1)
+
+
 ## Features
 
 - Basic arithmetic operations (addition, subtraction, multiplication, division)
